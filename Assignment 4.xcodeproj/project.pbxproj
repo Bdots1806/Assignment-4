@@ -15,6 +15,7 @@
 		8635F9A1291DC30700D4F1A8 /* Assignment_4Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8635F9A0291DC30700D4F1A8 /* Assignment_4Tests.swift */; };
 		8635F9AC291DC30700D4F1A8 /* Assignment_4UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8635F9AB291DC30700D4F1A8 /* Assignment_4UITests.swift */; };
 		8635F9C6291DC4CD00D4F1A8 /* DataTableCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8635F9C5291DC4CD00D4F1A8 /* DataTableCell.swift */; };
+		8635F9CB291DC7EC00D4F1A8 /* EditViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8635F9CA291DC7EC00D4F1A8 /* EditViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		8635F9AB291DC30700D4F1A8 /* Assignment_4UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Assignment_4UITests.swift; sourceTree = "<group>"; };
 		8635F9AD291DC30700D4F1A8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8635F9C5291DC4CD00D4F1A8 /* DataTableCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataTableCell.swift; sourceTree = "<group>"; };
+		8635F9CA291DC7EC00D4F1A8 /* EditViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				8635F992291DC30600D4F1A8 /* Assets.xcassets */,
 				8635F997291DC30600D4F1A8 /* Info.plist */,
 				8635F9C5291DC4CD00D4F1A8 /* DataTableCell.swift */,
+				8635F9CA291DC7EC00D4F1A8 /* EditViewController.swift */,
 			);
 			path = "Assignment 4";
 			sourceTree = "<group>";
@@ -257,6 +260,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8635F9CB291DC7EC00D4F1A8 /* EditViewController.swift in Sources */,
 				8635F9C6291DC4CD00D4F1A8 /* DataTableCell.swift in Sources */,
 				8635F98E291DC2FC00D4F1A8 /* ListViewController.swift in Sources */,
 				8635F98A291DC2FC00D4F1A8 /* AppDelegate.swift in Sources */,
